@@ -4,12 +4,14 @@ As part of Girls Who Code final project, 5 girls -- Amy, Nishat, Edie, Teresa, a
 Built with Crafty.JS and HTML, She's Not Here is a 2D scrolling pixel game about fighting ones inner demons and breaking free.
 Integrating the zodiac signs and other mystical inspirations, we developed a mission to raise trans visibility in video games by making our main character transgender.
 
+# Live Demo ✨
+* [Play!](https://teresawithoutah.github.io/Shes-Not-Here/) 
 
-## Pages
 
+
+##
 * [Crafty.JS](http://craftyjs.com/) - The Javascript framework used
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Getting Started
+## Thanks
 Shout out to our teachers -- Shur, Amritha, and Lynn.
 
