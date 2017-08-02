@@ -6,10 +6,8 @@ Integrating the zodiac signs and other mystical inspirations, we developed a mis
 
 # [Live Demo](https://teresawithoutah.github.io/Shes-Not-Here/) ✨ 
 
-
-##
-* [Crafty.JS](http://craftyjs.com/) - The Javascript framework used
-
 ## Thanks
 Shout out to our teachers -- Shur, Amritha, and Lynn.
+* [Crafty.JS](http://craftyjs.com/) - The Javascript framework used
+
 
